@@ -17,6 +17,8 @@ from langchain import PromptTemplate
 from itertools import chain
 from wordcloud import WordCloud
 
+
+
 timestamp = time.strftime("%Y%m%d%H%M%S")
 filename = f"image_{timestamp}.png"
 
@@ -79,6 +81,25 @@ def positive_reviews(docs,llm):
         instruction = """summarize and list the top 5 positive reviews on security areas, performance, user interface based on the content.
                      seggragate the reviews under these categories Security, Performance, User Interface.
                      Do not repeat. Display 5 points under each category in an ordered list.
+                     Follow this format.
+Security
+*
+*
+*
+*
+*
+Performance
+*
+*
+*
+*
+*
+User Interface
+*
+*
+*
+*
+*
                       """
         result=model.predict(f'''{instruction},
                         content:{content} 
@@ -111,6 +132,25 @@ def negative_reviews(docs,llm):
         instruction = """ top 5 focus areas for the product based on the customer reviews, 
         seggragate the reviews under these categories Security, Performance, User Interface.
         Do not repeat. Display it in a ordered list.
+        Follow this format.
+Security
+*
+*
+*
+*
+*
+Performance
+*
+*
+*
+*
+*
+User Interface
+*
+*
+*
+*
+*
         """
         result=model.predict(f'''{instruction},
                         content:{content} 

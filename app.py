@@ -461,48 +461,28 @@ def main():
     c1,c2 = st.columns([6,1])
     with c1:
         revs = ""
-        question = st.text_input("Please enter the product name below for which you want to analyze the reviews",value="google")
-        question=question.lower()
-        if question=="Android" or question=="android":
+        product = st.radio(
+        "Select a product to see the analysis",
+        ('AndroidOS', 'Chrome', 'Pixel'))
+
+        if product == 'AndroidOS':
             revs='android.txt'
             df = pd.read_csv(r"Android.csv", encoding ="latin-1",engine='python' )
-        elif question=="Chrome" or question=="chrome":
+        elif product == 'Chrome':
             revs='chrome.txt'
             df = pd.read_csv(r"Chrome.csv", encoding ="latin-1",engine='python' )
-        elif question=="Gmail" or question=="gmail":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Gmail.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google" or question=="google":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Google.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google Home" or question=="google home":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Googlehome.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google Nest" or question=="google nest":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Gmail.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google Pixel Home" or question=="google pixel home":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Gmail.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google Shared Drive" or question=="google shared drive":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Gmail.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google Assistant" or question=="google assistant":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Gmail.csv", encoding ="latin-1",engine='python' )
-        elif question=="Google Fi" or question=="google fi":
-            revs='gmail.txt'
-            df = pd.read_csv(r"Gmail.csv", encoding ="latin-1",engine='python' )
-
-        if not revs:
-            st.error("Invalid company name.")
+        elif product == 'Pixel':
+            revs='googlepixel.txt'
+            df = pd.read_csv(r"GooglePixel.csv", encoding ="latin-1",engine='python' )
         else:
-            product_revs = ""
-            if not os.path.exists(revs):
-                st.error(f"File not found: {revs}")
-            else:
-                with open(revs, 'r') as file:
-                    product_revs = file.read()
+            st.write("Please select a product.")
+        
+        product_revs = ""
+        if not os.path.exists(revs):
+            st.error(f"File not found: {revs}")
+        else:
+            with open(revs, 'r') as file:
+                product_revs = file.read()
         
         docs=genAI.data(product_revs)
         llm=VertexAI(model='chat-bison@001')  
@@ -528,28 +508,8 @@ def main():
             col4 = st.columns(1)  
             with col4:
                 genAI.trending_hashtags(docs,llm) 
-        with tab2:
-            with st.form(key='my_form'): 
-
-        # st.write("Enter your question here:")
-                input_query = st.text_area("Enter your question here:", value="")
-                column3, column4, column5,column6,column7= st.columns(5)
-
-                with column3:
-                    submit_button = st.form_submit_button(label='Submit')
         
-                with column4:
-                    pass
-                with column5:
-                    pass
-                with column6:
-                    pass
-                with column7:
-                    refresh_button = st.form_submit_button(label='Refresh')
-                
-                if submit_button and st.session_state.key:
-                    st.write("ask")
-
+       
 
 if __name__ == "__main__":
     main()  

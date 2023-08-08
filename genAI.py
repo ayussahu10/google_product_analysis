@@ -17,50 +17,17 @@ from langchain import PromptTemplate
 from itertools import chain
 from wordcloud import WordCloud
 
-
-
 timestamp = time.strftime("%Y%m%d%H%M%S")
 filename = f"image_{timestamp}.png"
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 
 @st.cache_data
+
 def data(product_tweets):
     text_splitter = RecursiveCharacterTextSplitter(separators=["\n\n", "\n"], chunk_size=10000, chunk_overlap=500)
     docs = text_splitter.create_documents([product_tweets])
     return docs
-
-
-def major_topic_discussion(docs,llm):
-
-    map_prompt = """What is the major topic of discussion: 
-    "{text}"
-    Provide full summary:
-    """
-    map_prompt_template = PromptTemplate(template=map_prompt, input_variables=["text"])
-
-    summary_chain1 = load_summarize_chain(llm=llm,
-                                     chain_type='map_reduce',
-                                     map_prompt=map_prompt_template,
-                                     return_intermediate_steps=True
-                                    )
-    
-    output = summary_chain1(docs)
-    content5=output["intermediate_steps"]
-
-    def major(content):
-        model=TextGenerationModel.from_pretrained(model_name='text-bison@001')
-        instruction = """ summarize the major topic of discussion based on the content.
-        """
-        result=model.predict(f'''{instruction},
-                        content:{content} 
-                        ''',**parameters)
-        data=result.text
-        return data
-    
-    res5=major(content5)
-    st.header("Major Topic of Discussion")
-    return res5
 
 def summarization(docs,llm):
 
@@ -94,10 +61,10 @@ def summarization(docs,llm):
     return res3
 
 def positive_reviews(docs,llm):
-    map_prompt = """ Top 5 positive reviews based on the customer reviews : 
-    "{text}"
-    Provide full summary instead of concise summary:
-    """
+    map_prompt = """ Top 5 positive reviews for the product based on the customer review.
+                    "{text}"
+                    Provide full summary instead of concise summary.Make sure the lines are repeated
+                 """
     map_prompt_template = PromptTemplate(template=map_prompt, input_variables=["text"])
     summary_chain1 = load_summarize_chain(llm=llm,
                                      chain_type='map_reduce',
@@ -109,8 +76,10 @@ def positive_reviews(docs,llm):
     content2=output["intermediate_steps"]
     def positive(content):
         model=TextGenerationModel.from_pretrained(model_name='text-bison@001')
-        instruction = """ summarize and list only the top 5 positive points based on the content.
-        """
+        instruction = """summarize and list the top 5 positive reviews on security areas, performance, user interface based on the content.
+                     seggragate the reviews under these categories Security, Performance, User Interface.
+                     Do not repeat. Display 5 points under each category in an ordered list.
+                      """
         result=model.predict(f'''{instruction},
                         content:{content} 
                         ''',**parameters)
@@ -139,7 +108,9 @@ def negative_reviews(docs,llm):
 
     def negative(content):
         model=TextGenerationModel.from_pretrained(model_name='text-bison@001')
-        instruction = """ top 5 focus areas for the product based on the customer reviews, seggragate the reviews under these categories Security, Performance, User Interface,Do not repeat. Display it in a ordered list.
+        instruction = """ top 5 focus areas for the product based on the customer reviews, 
+        seggragate the reviews under these categories Security, Performance, User Interface.
+        Do not repeat. Display it in a ordered list.
         """
         result=model.predict(f'''{instruction},
                         content:{content} 

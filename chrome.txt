@@ -1,0 +1,288 @@
+                                                                                                                                                        BRING BACK TAB MUTING BY CLICKING THE TAB!!!
+                                                                              TIL the "Duplicate tab" feature duplicates the current tab from cache and doesn't load a new copy of the page content.
+                                                                                                                                                                           Adblock vs. Adblock Plus?
+                                                                                                                                                        Please post your essential Chrome extensions
+                                                                                                                     PSA: Unseen for Facebook extension now injecting ads into Google Search results
+                                                                   Extension Request: Forces all news articles on Facebook to open up on the original website, instead of going to the Facebook App.
+                                                                                                                                   What are all the "chrome://..." I can enter into the address bar?
+                                                                                                                                                                         New UI is smooth. Why Hate?
+                                                                                                        How to disable tab groups (but unfortunately not tab grid) that works on Chrome 91.0.4472.88
+                                                                                                                                                                                 Hijacked Search Bar
+                                                                                                                                                Annoying banner popup when changing volume on Chrome
+                                                                                  Really Google ? Edge Chromium Users are not able to view the new youtube design and it tells you to go use Chrome.
+                                                                                                                                 URL Autocomplete should suggest the base address before giant URLs.
+                                                                                                                                                                Cannot mute individual tabs anymore?
+                                 Getting tired of your shit, Chrome. That 2 second pause to reload-the-whole-page-and-then-jump-back-down-to-where-I-clicked-from is hangnailing my reddit browsing.
+                                                                                                                 Chrome will no longer allow embedded Youtube videos to go fullscreen on ANY website
+                                                                                                                                  Chrome has the worst Settings menu from anything I have ever seen.
+                                                                                                                   PSA: "Download Manager" extension re-directs Amazon URLs to its own affiliate URL
+                                                                                                                                                  So W/ new update we cant mute single tabs any more
+                                                                                                                                          Can no longer click the speaker on a tab to mute said tab?
+                                                                                                        I got tired of how bad bookmarks are, so I learned how to code and built a Chrome extension.
+                                                                                                                                                               My Duet bar at the bottom is gone :'(
+                                                                                                                                           how to disable the Tab Search after 91.0.4472.77 version?
+                                                                                                                                              Disabling the new group tab flag on Chrome for Android
+                                                                                                                                                                     stupid fucking designer morons.
+                                                                                                                                               Don't like the new extension behavior? Let them know!
+                                                                                   Microsoft Security Essentials - flagging Chrome as ZBot virus - uninstalling Chrome and blocking re-installation.
+                                                                                                                                                          "Search Google for this image" option gone
+                                                                                                                             Is there a keyboard shortcut for the new "add to reading list" feature?
+                                                                                                                         Can we ban all new posts about the new UI? Have a pinned post or something?
+                                                                                                                                                 "This extension contains malware." (Volume Control)
+                                                                                                                                                              Chrome no longer show controls on gifs
+                                                                       How can Google make such a blunder as to let two of its most important products (Chrome and Youtube) work so poorly together?
+                                                                                                            I made an extension for Chrome that will allow you to view Youtube comment conversations
+                                                                                                                                                    Chrome crashes when closing a youtube tab. Help?
+                                                                                                                                          Just released version 1.0 of my extension, Better History!
+                                                                                                                                                   Old searches keep showing up below my search bar?
+                                                                                                                                                             When is Google going to improve Chrome?
+                                                                                                   [PSA][Warning] GIPHY extension 6/17/2017 is now malware forwarding you to fake Chrome update site
+                                                                                                     Just got Chrome 37. Its resolution is really low, and everything looks blown up. What happened?
+                                                                                                                                                     Pro tip - use IFL as your default search engine
+                                                                                                                                How do cast a tab, it now says "available for specific video sites"?
+                                                                                                     Bitdefender detected a storage.googleapis.com connection as malicious - originated from Chrome?
+                                                                                                                                                                        How to get old Tab look back
+                                                                                                                                                                      New Google Chrome looks awful.
+                                                                                                                                     Chrome is crashing new tabs showing the "He's Dead Jim" message
+                                                                                                                                                  My All Time Favourite Extensions for Google Chrome
+                                                                                                                               Tab grid view is the dumbest thing chrome could implement on Android!
+                                                                                                                                                         [help] i can't turn off the tab grid layout
+                                                                                        Guide: Disable Chrome automatically highlighting text on sites from featured search results (AKA targetText)
+                                                                                                                                                              You can mute any tab by clicking on it
+                                                                                                                                                  Found another piece of adware in Chrome Extension.
+                                                                                                                   Warning: The "Save As" location from incognito may be remembered in normal mode. 
+                Hey Google, instead of just making ad blockers no longer work on chrome, how about you do something about the malicious ads that require me to use an ad blocker in the first place?
+                                                                                                                                                Chrome 102, how do I remove the "side panel" button?
+                                                                                                                                           The Chrome Update for Android sucks. I want my tabs back.
+                                     Is it just me, or does Google need to quit trying to expand Chrome's functionality and focus back on making a web browser that actually lets me browse the web?
+                                                                                                                                               Goodbye Chrome, you've f'd me over one too many times
+                                                                                                                                                      Chrome on Android washed out colors - Solution
+                                                                                     My extension G.lux (the F.lux alternative for Chrome and ChromeOS) just received a major update to version 3.0!
+                                                                                                                                     Is it me...or....is Facebook starting to get ads past adblock? 
+                                                                                                                                   Search bar on Android automatically removes spaces between words.
+                                                                                                                                                    Does anyone else not like chrome's bookmarking? 
+                                                                                                                                        Hey /r/chrome: Are you still seeing the download.gz problem?
+                                                                                                                                                                       white search bar on dark mode
+                                                                                                                                             Why you shouldn't downgrade to an old version of Chrome
+                                                                                                                                              Is there any chance of tab speaker muting coming back?
+                                                                                                                                 [Help] After a gif has played through for the first time, it stops.
+                                                                                           Why does Google "fix" things that aren't broken with "updates" that remove perfectly-functional features?
+Google has restored the "Close other tabs" option in the stable version of Chrome, you just have to open the three dots menu and go to Help>About Google Chrome and wait for the update to download.
+                                                                                                                                                         Chrome autofill no longer working properly?
+                                                                                                                                            Anyone seeing the bg-daily-refresh toggle switch on NTP?
+                                                                                                                                                                      TIL you can mark multiple tabs
+                                                                                                                                                   Warning: "Easy Auto Refresh" extension tracks you
+                                                                                                                                  Firefox has released it's W10 UI Update. Chrome should follow too.
+                                                                                                                                                       How does Firefox Quantum compare with Chrome?
+                                                                                                                        PSA: The extension Pocket adds amazon affiliate links to stored amazon links
+                                                                                                                                         Why is the Chrome Webstore so damn hard to search through? 
+                                                                                                                             Will Google ever allow extensions (e.g. AdBlock) on Chrome for Android?
+                                                                                      Anyone hate the transition to fullscreen while using Chrome particularly on YouTube and other video platforms?
+                                                                          Chrome 71 removes flags needed to revert back to the non crap design, can no longer access address bar in fullscreen mode?
+                                                                                                                       WARNING: One of the "Flash Video Downloader" extensions has been compromised.
+                                                                                                                                                         Grid/Grouped tab layout is a terrible idea.
+                                                                                                                                          So can we please fucking stop with the fucking whitespace?
+                                                                                                                                                        Can we all agree how useless Google Lens is?
+                                                                                                                                  can i remove the option to "add to reading list" in bookmark star?
+                                                                                    TIL That I can select multiple tabs by shift-clicking and move them from one browser window to another with ease
+                                                                                                                                   Chrome should alert users if background crypto-mining is going on
+                                                                                                                                                      Block Pinterest from all google search results
+                                                                                                                                                        Why is Chrome choking as soon a gifs appear?
+                                                                                                                                                                  My first extension: Uneddit Reddit
+                                                                                                                                                                        What Happened to Hover Zoom?
+                                                                                                                                                                          Extension to Preload Gifs?
+                                                                                                                                                       The most effective bookmark layout for Chrome
+                                                                                                                                                      Disable your chrome lens today! Chrome ver.108
+                                                                                                                                                      Why does Chrome keep pushing tab groups on us?
+                                                                                                                                        Flash Player will no longer be supported after December 2020
+                                                                                                     My Chrome just updated and now the top bar (tabs, etc) takes up a ton more space. Can I revert?
+                                                                           Magic Actions extension popped up a window saying "Your Chrome is out of date" with a button to search for a new version.
+                                                                                                                                   Is Google planning to update Chrome with a whole material design?
+                                                                                                                                  Today my IT admin disabled all extensions at my elementary school.
+                                                                                                                                                          Tabs grid whatever it's called. Bye chrome
+                                                                                                                                               How the hell do I get rid of the tab grid layout now?
+                                                                                                                                                   Anybody else notice the "new tab" button changed?
+                                                                                                                                                            Chrome for Android news function change?
+                                                                                                                                                                    How can I remove this info pop ?
+                                                                                                                                                     Thanks to Chrome, I've now switched to Opera :/
+                                                                                                                                                                          I HATE THE MATERIAL DESIGN
+                                                                                                                                 Please don't flood the bug tracker with backspace behavior reports.
+                                                                                                                                           [Help] Everytime I open google chrome a pornhub tab opens
+                                                                                                                   Adblock 2.6.29 now connecting to goldenticket.disconnect.me when launching Chrome
+                                                                                                                                                   All fonts became became more blurred after 69 upd
+                                                                                                                                                                        Chrome doesn't block pop ups
+                                                                                                                                                                             Chrome is a memory hog.
+                                                                                                              What is the single most useful extension that you think not enough people know about? 
+                                                                                                                                                       White flash on Android whenever I reload page
+                                                                                                                                 Congratulations Chrome, you made the Bookmark Manager even worse...
+                                                                                                                                                      How do I disable grouped tabs in Chrome Mobile
+                                                                                                                                                                  Why isn't RES in the Chrome store?
+                                                                                                                            The new Tab Search has been enabled, how long until we can't disable it?
+                                                                                                                                                          How useful you find annotation extensions?
+                                                                                                                                                            Search result on top in stead of sites..
+                               So the Removed the tab-muting feature in Flags.... What are they doing with chrome, this was one of the most important features i used.... Now i can only mute sites.
+                                                                                              Is it possible to get Chrome to wait until an animated GIF has finished downloading before playing it?
+                                                                                                                                Just set up Firefox in less than a half hour with all my preferences
+                                                                                                          PSA: You can now make Chrome show the full URL in the address bar (including the protocol)
+                                                                                                                   Consequences of Chromium's decision to hide the "HTTP" part from the address bar.
+                                                                                                                                                                                  Chrome 57 is here!
+                                                                                                                                                                             Current state of Chrome
+                                                                                                                                                                         Chrome suddenly not working
+                                                                                                                                                   Bring back "Overlay Scrollbars" on chrome:\\flags
+                                                                                                                                                                             Can't move tabs *fixed*
+                                                                                                        Chrome now tells you which tab is playing music. Awesome. Anyway we could mute that one tab?
+                                                                                                                                        As of January 2023 - I am no longer going to be using Chrome
+                                                                                            [help] Chrome telling me on basically every site that my connection is not private or the site is unsafe
+                                                                                Dear Chrome extension Devs please port your extensions to Firefox. It takes 3 minutes for most of them. Here is how!
+                                                                                         As someone who has terrible internet connection, I wish the Google Dinosaur Sidescroller saved your scores.
+                                                                                                                                   Google wasn't shitting when they said Chrome used less battery...
+                                                                In case anybody hasn't seen it yet, /u/smooshie posted a list of malicious Chrome extensions and thought we could contribute to that
+                                                                                                    This is not Chrome related, but rather /r/Chrome related: Can we have the downvote button back? 
+                                                                                                           FYI: the new update on Android pushed "open in new tab group" back to the top of the menu
+                                                              Public service announcement: uBlock origin (an adblocker) is the best, no competition. If you use Adblock you should switch to uBlock.
+                                                                                                                                                                       Screw you chrome 71 UI design
+                                                                                                                                                   Hide The Fine Bro's videos from YouTube extension
+                                                                                                                                                                        The Great Suspender Malware.
+                                                                                                                                     How to revert back to the old style chrome (before the update).
+                                                                                                                                                               [Help] Chrome disabled Youtube Center
+                                                                                                                                   Why is Chrome suddenly saving images as .webp - it never used to?
+                                                           After displaying fake uBlock Origin as a top search result in Chrome Store for half a year, Google has finally removed the malicious app.
+                                                                                                                                            Tab groups is the worst thing to happen to humanity ever
+                                                                                                                                                           Why is Google pushing tab groups so hard?
+                                                                                                                                                  Is there still a way to bring back the old design?
+                                                                                                                                                why are disabled extension icons showing up in gray?
+                                                                                                                                Reddit Enhancement Suite 4.1.3 is officially in the chrome web store
+                                                                                                                   Searching for images "find image source" now completely replaced by Google Lens??
+                                                                                   Everything in Chrome is now too big (UI, text, etc), tried things suggested in previous threads and nothing works
+                                                                                                                                                                       How do I disable Google Lens?
+                                                                                                                                         Nobody likes the group tabs feature, stop forcing it on us.
+                                                                                                                                                                    Enough with the Backspace posts!
+                                                                                                         The YouTube Ratings Preview extension now collects Google search data via "jgy3.ggclk.com".
+                                                                                                                                             Chrome 76 will finally make incognito mode undetectable
+                                                                                                                                                                                Recent Chrome update
+                                                                                                                                   Create shortcut "open in window" option missing (solution within)
+                                                                                                                                                                   The new bookmarking system sucks.
+                                                                                                                          Caution: Auto HD for YouTube extension is now injecting ads into facebook!
+                                                                                                                                                                   Easter Egg in Chrome New Tab code
+                                                                                                                                                        Am i the only one that likes the new design?
+                The Beta version of Chrome (desktop) now also has the full native dark mode (menus with white letters) and also detects system dark/light mode and automatically switches (Windows).
+                                         What the hell has happened, Chrome? Search history now takes priority over address history in the address/search bar. How or why would that ever be useful?
+                                                                   Dear Chrome devs, please add the ability for me to mute a tab that is currently playing by clicking the speaker icon on that tab.
+                                                                                                                                                   HoverZoom has gone evil -- say hello to HoverFree
+                                                                                                                                          PSA: Reddit Enhancement Suite and "the new permissions"...
+                                                                                                        Google Chrome update replaced 'Search Google for Image' with 'Search Image with Google Lens'
+                                                                                                                                                                         Chrome 71 Awful UI changes.
+                                                                                                                                                               Custom automatic searches not working
+                                                                                                                                                     The Best Chrome Extensions I Can't Live Without
+                                                                                                                                                                   Removed the ability to mute tabs?
+                                                                                                                                                                                   Hate the new tabs
+                                                                                                                Microsoft Engineer Installs Chrome Mid Microsoft Presentation as Edge wasn't working
+                                                                                                                    PSA: How to un-fuck the Chrome Redesign & missing Thumbnails on the New Tab Page
+                                                                                                  uBlock Origin developer calls out AdblockPro copying code, distributing with spyware capabilities.
+                                                                                                                                                            Chrome auto-fills the Twitter search bar
+                                                                                                                   Got annoyed by all fedora Youtube comments so I made an extension to remove them.
+                                                                                                                                                 Stop trying to force the tab grid layout on Mobile.
+                                                                                                                WARNING: UBO (uBlock Origin) will possibly be removed from the Chrome web store soon
+                                                                                                               Here is how to stop your most recent search result from appearing in the address bar.
+                                                                                                                                                        missing the homepage most visited thumbnails
+                                                                                                                                                                             We want Tab Muting Back
+                                                                                                                                                      Disable Search for Black-owned shops near you?
+                                                                                                                                                           r/chrome stands with the sitewide protest
+                                                                                                                                               Disable "Copy link to highlight" in right click menu?
+                                                                                                                                                                           Can't turn off Group Tabs
+                                                                                    My grandparents are headed out of state with my laptop that has pornhub as home page. What can I do? (emergency)
+                                                                                                                                                         Disable tab grid layout not working anymore
+                                                                                                                                                             I hate the new Chrome bookmarks manager
+                                                                                    Tutorial: How to force images to be save as png, jpg (or whatever their format is) instead of the horrible .WEBP
+                                                                                                Google needs to release a completely stripped down Chrome. Not a memory hog, very lightweight, fast.
+                                                                                                                                                Is there a way to turn off Chrome's material design?
+                                                                                                                                                                           GOOGLE LENS FUCKING SUCKS
+                                                                                                                                                     Manifest v3 Discussion and Impact on AdBlockers
+                                                                                                                                                   Any way of getting the old tab visual style back?
+                                                                                                                                 TIL a Chrome Extension was spying on me.  BEWARE "Smooth Gestures".
+                                                                        Chrome Store has a fake/malicious version of uBlock Origin, and Google made it the #1 top search result for "uBlock Origin".
+                                                                                                                    Probably a dumb question, but did Chrome's visuals change in an update recently?
+                                                                                                                                          How do I undo the new chrome that just auto updated today?
+                                                                                                                                                            Chrome treating middle-clicks as pop-ups
+                                                                                                                                           Can we PLEASE sticky the "how to undo the update" thread?
+                                                                     Version 69 seems ok but the tabs are too large to my liking. Anyway to shrink them back down? Themes don't seem to effect them.
+                                                                                                            All my tabs look bigger than usual and everything looks more zoomed in despite 100% zoom
+                                                                                                                                                   Beware of ADBLOCK SUPER - it will install malware
+                                                                                                                                                                               If you use Hover Zoom
+                                                                                  Forcing us to use tab grids is one thing, but not giving us the option to open tabs without grouping them? Really?
+                                                                                                                               Somebody please make a theme to revert the old google tab style back.
+                                                                                                                                                      Version 49 "smooth scroll" defaults to enabled
+                                                                                                                         Anybody else getting a hell of a lot more "He's dead, Jim!" Error messages?
+                                           How to: Restart Chrome quickly - Useful if you have "Continue running background apps when Google Chrome is closed" option enabled for your notifications
+                                                                                                                                          Am I the only one who doesn't have any issues with chrome?
+                                                                                                                                             Google chrome for windows is getting a Material Design.
+                                                                                                                                                          Chrome crashed when closing youtube videos
+                                                                                                                                                 Chrome super-bright, washed out on one monitor only
+                                                                                                                                     Netflix stuttering / freezing on chrome but not Edge or Firefox
+                                                                                         If you're getting the "download.gz" problem, and you know how to make a packet capture, please send us one.
+                                                                                                                                                          Return YouTube dislikes with the extension
+                                                                                                 I created a Chrome extension for Facebook that allow you read message without sending read receipt.
+                                                                                                                        Multiple Popular Chrome Extensions Have Been Compromised With Malicious Code
+                                                                                                                                                                         Problem with YouTube videos
+                                                                                                                                            Chrome for Android keeps reopening closed tabs on launch
+                                                                                                                                                     How to remove malicious 'Properties' extension?
+                                                        TIL that you can use Chrome's tab audio indicator to mute the tab by going to chrome://flags/#enable-tab-audio-muting and clicking "enable".
+                                                                                                                                              Has the search bar autocomplete functionality changed?
+                                                                                                                                                 Offered money to insert malware into my extensions.
+                                                                                                                                                                            NSFW Extension on Chrome
+                                                                                                                                       (Android) Chrome recent tabs view switched to basic list view
+                                                                                             Who in the right mind thoguht removing the "open closed tab" from right clicking a tab was a good idea?
+                                                                                                                                                  Its 2021, and mobile chrome does NOT have add-ons!
+                                                                                                                                                         Extra space between icons in bookmarks bar.
+                                                                                                                                                                 The Great Suspender extension gone?
+                                                                                                Since the latest Chrome update, my task bar and address bar has become so much bigger and zoomed in.
+                     PSA: To those who are experiencing gifs & video tearing/artifacting, black-box/bars glitching on Chrome 54 just go to settings & turn off Hardware acceleration when available.
+                                                                                                                                 PSA: Try disabling *all* your extensions before asking for any help
+                                                                                                                                                                             ERR_SPDY_PROTOCOL_ERROR
+                                                                                                                                                  Looks like Google Now just rolled out for Desktop!
+                                                                                                                                                                       Google image search sucks now
+                                                                                                                                                         Chrome V49: How to disable the new features
+                                                                                                     TIL you can hold "shift + Del" on automatic URLs that dropdown in the Chrome bar to delete them
+                                                                                                                                                  Am I the only one who doesn't hate the new design?
+                                                                                                                                                                 Incognito: The other (awesome) use.
+                                                                                                                                                So Google removed Duet on Android for good now, huh?
+                                                                              Extension with 100k+ installs makes your chrome browser like random people facebook/instagram pictures. Malware alert!
+                                                                                                                                                            The new video player on Chrome 67 sucks.
+                                                                                                                      Tip: middle-click on the reload button to duplicate the currently selected tab
+                                                                                                                                                               How to disable the new "New Tab" page
+                                                                                IAMA developer of a chrome extension that spys on it's users - "Smooth Gestures" ... (but we're the worst spys EVAR)
+                                                                                                                                 Right click "search google" now opens a sidebar instead of new tab?
+                                                                                                                                  Privacy Test - This random chrome extension installed itself today
+                                                                                                                                                   Chrome is no longer letting me disable grid tabs?
+                                                                                                                     Anyway to hide/get rid of this new music thing Chrome 79 has just dumped on me?
+                                                                                                                               I still hold a grudge that the devs removed the ability to mute tabs.
+                                                                                                                                                                     Remote Desktop, I hate you now.
+                                                                                                                  I just wanted to thank Chrome for being able to be installed on school computers. 
+                                                                                                                                                                                  Chrome "Normal" UI
+                                                                                                                                                  Is Google losing it - Google Chrome new bookmarks?
+                                                                                                                                                  How to fix custom search engines no longer working
+                                                                                                                                     Chrome duet flag not working on Android after the latest update
+                                                                                                                                                 New UI update broke ability to mute individual tabs
+                                                                              Chrome Only: My friend and I made a secure file sharing application - cryptoshed.com. Is this something you might use?
+                                                                                                                                                          Where the fuck did #overlay-scrollbars go?
+                                                                                                                                              Chrome URL autocomplete behavior changed automatically
+                                                                                                                                                                                   Mute tabs option.
+                                                                                                                             FYI: "Tab Manager" extension's new owners have added tracking (malware)
+                                                           PSA: If you are using the 'Better Music for Google Play Music' extension for Chrome, you should know they are now injecting Superfish ads
+                                                                                                                                 Google has restored the "Close other tabs" option in Chrome Canary.
+                                                                                                                                                          Google chrome taking control of Media keys
+                                                                                                        Linux: How To Fix Failed to fetch http://dl.google.com/linux/chrome/deb/dists/stable/Release
+                                                                                                                                   Chrome 32 now has audio, webcam and streaming indicators on tabs!
+                                                                                                    Turned a 6 year old Thinkpad into a Chromebook.  What an awesome way to recycle an old device.  
+                                                                                                                                                            TIL You can drag downloads into a folder
+                                                                                                                                                                      Can't Turn Off Tab Hover Cards
+                                                                                                                                                                                           UI Layout
+                                                                                                                              Chrome can now redirect Cortana web searches to Google instead of Bing
+                                                                                                                                                [update] Hoverzoom has been removed from Google Play
+                                                                                                 If anyone figures out how to disable group tabs and the grid layout on android, let me know please.
+                                                                                                             An easier method to copy/export your Chrome Android tabs from into a note or text file!
+                                                                                                                         I just saw two bacon strips fly across Google Chrome. What the hell was it?
+                                                                                                                                                                 Alternatives to Workona Tab Manager
+                                                                                                                                                    Keyboard suddenly does commands instead of type?
+                                                                                                                                                      YouTube is so slow; but my internet is fast...
+                                                                                                  How can I install uBlock Origin in Chrome for Android? Can I install addons in Chrome for Android?
